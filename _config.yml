@@ -182,6 +182,25 @@ kramdown:
 # pages with `comments: true` in the front matter.
 # disqus:                <username>
 
+# Set which comment system to use
+comments:
+  # 'disqus' / 'giscus' / 'utterances' are available
+  provider:            giscus
+
+# You must install giscus github app before use.(https://github.com/apps/giscus)
+# Make sure all variables are set properly. Check below link for detail.
+# https://giscus.vercel.app/
+giscus:
+  repo:                "dongdong-119/dongdong-119.github.io"
+  repo-id:             "R_kgDOKd53yw"
+  category:            "General"
+  category-id:         "DIC_kwDOKd53y84CZ-t0"
+  mapping:             "pathname"
+  reaction-enabled:    "1"
+  theme:               "preferred_color_scheme"
+  crossorigin:         "anonymous"
+
+
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
 # tinyletter:            <username>

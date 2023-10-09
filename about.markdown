@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![image](assets/img/me.jpeg){: width="30%", height="30%"}
+
 Software Engineer, Samsung SDS
 
 
