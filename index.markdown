@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: list
+title: Home
+# description: >
+#     Referer's Home
+no_link_title: false 
+no_excerpt: false 
+cover: true    
 ---
+
+## Orientation
+- clean code
+- SOLID architecture
+- flexible functionality
+
