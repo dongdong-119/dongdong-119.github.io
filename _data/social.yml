@@ -206,3 +206,7 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+brunch:
+  name: Brunch
+  icon: icon-book
+  prepend: "https://brunch.co.kr/"
