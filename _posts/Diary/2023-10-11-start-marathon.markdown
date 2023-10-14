@@ -3,7 +3,7 @@ title: "10K 마라톤 참가 신청"
 layout: post
 categories: diary
 tags: 마라톤
-date: 2023-10-13 09:00:00 +09:00
+date: 2023-10-11 09:00:00 +09:00
 #related_posts:
 # - _posts/Back-end/<post_name.md>
 ---
