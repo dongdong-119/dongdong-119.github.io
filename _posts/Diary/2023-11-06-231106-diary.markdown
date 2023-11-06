@@ -1,5 +1,5 @@
 ---
-title: "[회고] 23년 10월 회고"
+title: "[회고] 23년 11월 회고"
 layout: post
 categories: diary
 tags: 회고
