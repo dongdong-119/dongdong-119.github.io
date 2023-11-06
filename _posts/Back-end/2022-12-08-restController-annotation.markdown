@@ -7,6 +7,7 @@ tags: spring
 date: 2022-12-08 00:01:20 +0900
 ---
 
+
 Spring에서 컨트롤러를 지정해주는 어노테이션으로 @Controller와 @RestController를 이용합니다. 객체를 Json형태의 데이터로 보내주기 위해서는 컨트롤러의 각 메소드에 @ResponseBody 어노테이션을 붙여주는데요, 며칠전 프로젝트를 진행하며 컨트롤러에 붙은 어노테이션을 확인하다 동료가 컨트롤러에 @RestController와 @ResponseBody를 함께 사용한 것을 확인했습니다. @RestController 어노테이션을 뜯어보면 @ResponseBody가 들어있는 것을 확인할 수 있는데요, 그렇다면 @RestController를 사용한 컨트롤러에서는 메소드에 @ResponseBody를 사용하지 않아도 되는 걸까요? 
 
 
